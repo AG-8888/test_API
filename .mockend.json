@@ -1,7 +1,6 @@
 {
   "Post": {
-     "title": { "string": {"qwertz"} },
-
+    "title": { "string": {"sdfsdf"} },
     "comments": {
       "hasMany": "Comment"
     }
