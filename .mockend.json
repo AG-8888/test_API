@@ -1,9 +1,7 @@
 {
-  "ModelName": {
-    "fieldName": {
-      "<type>": {} ,
-      "hasMany": "Model",
-      "belongsTo": "Model"
+  "Post": {
+    "test1": {
+      "title": { "string": {}},      
     }
   }
 }
