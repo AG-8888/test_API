@@ -2,7 +2,7 @@
   "Post": {
     "title": { "string": {} },
     "comments": {
-      "5": "Comment"
+      "hasMany": "5"
     }
   },
   "Comment": {
