@@ -2,8 +2,14 @@
   "Post": {
    
       "title": { "string": {}},
-      "hasMany": "Model",
-      "belongsTo": "Model"
+      "hasMany": "Comment",
+      "belongsTo": "Comment"
     
+  }
+  "Comment": {
+    "body": { "string": {} },
+    "post": {
+      "belongsTo": "Post"
+    }
   }
 }
