@@ -8,7 +8,7 @@
     }
   },
   "Comment": {
-    "2test": { "string": {} },
+    "body": { "int": { "min": 10, "max": 19 } },
     "post": {
       "belongsTo": "Post"
     }
