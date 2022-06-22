@@ -8,7 +8,7 @@
     }
   },
   "Comment": {
-    "body": { "string": {} },
+    "2test": { "string": {} },
     "post": {
       "belongsTo": "Post"
     }
