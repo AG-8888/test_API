@@ -5,11 +5,6 @@
       "hasMany": "Comment"
     }
   },
-  "Comment": {
-    "body": { "string": {} },
-    "post": {
-      "belongsTo": "Post"
-    }
-  }
+  
 
  "email": { "regexp": "[a-z]{5,10}@[a-z]{5}\\.[a-z]{2,3}" } }
