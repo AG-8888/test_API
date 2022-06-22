@@ -1,5 +1,9 @@
 {
   "Post": {
-      "title": { "string": {}},    
+    "test1":{
+      "title": { "string": {}},
+      "hasMany": "Model",
+      "belongsTo": "Model"
+    }
   }
 }
