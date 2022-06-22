@@ -8,7 +8,7 @@
     }
   },
   "Comment": {
-    "body": { "int": { "min": 10, "max": 19 } },
+    "body": { "string": {} },
     "post": {
       "belongsTo": "Post"
     }
