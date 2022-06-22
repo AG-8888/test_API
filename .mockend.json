@@ -3,7 +3,7 @@
    
       "title": { "string": {}},
       "hasMany": "Comment"
-  }
+  },
   "Comment": {
     "body": { "string": {} },
     "post": {
