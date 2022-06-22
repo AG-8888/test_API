@@ -1,7 +1,7 @@
 {
   "Post": {
 
-    "test": { "string": {} },
+    "test": { "int": { "min": 0, "max": 9 } },
     "comments": {
       "hasMany": "Comment"
     
